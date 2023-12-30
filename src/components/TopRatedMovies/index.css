@@ -1,0 +1,8 @@
+.movie {
+  list-style-type: none;
+}
+
+.upcoming {
+  display: flex;
+  flex-wrap: wrap;
+}
